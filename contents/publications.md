@@ -21,7 +21,7 @@
 
 4. **[Contributing Author]**  
    **Evaluating the performance of large language and visual-language models in cervical cytology screening.**  
-   *npj Precision Oncology*, **published**, 2024.  
+   *npj Precision Oncology*, **published**, 2025.  
    *(Assisted with dataset construction, model benchmarking, and study conceptualization.)*
 
 ---

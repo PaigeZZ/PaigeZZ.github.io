@@ -3,7 +3,7 @@
 
 
 ## About
-I am a master's student at the Biomedical Engineering College of Southern Medical University, supervised by **Professor Chenghua Cheng**.  
+I am a master's student at the School of Biomedical Engineering, Southern Medical University, supervised by **Professor Shenghua Cheng**.  
 My research focuses on medical artificial intelligence, and my long-term goal is to develop clinically deployable, reliable, and transparent AI systems that can support real-world diagnostic and treatment decision-making.
 
 
@@ -14,9 +14,9 @@ My research focuses on medical artificial intelligence, and my long-term goal is
 
 
 #### Education
-- **M.Eng. (Biology and Medicine)**, School of Biomedical Engineering, **2023–2026**
-- **B.Eng. (Biomedical Engineering)**, Southern Medical University, **2019–2023**
-- **B.Sc. (Applied Psychology, Double Degree)**, Southern Medical University, **2019–2023**
+- **M.Eng. Biology and Medicine**, School of Biomedical Engineering, **2023.09–Present**
+- **B.Eng. Biomedical Engineering(Information Technology)**, Southern Medical University, **2019.09–2023.07**
+- **B.Sc.(Double Degree) Applied Psychology**, Southern Medical University, **2020.09–2023.07**
 
 #### Research Interests
   

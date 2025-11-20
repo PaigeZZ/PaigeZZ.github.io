@@ -43,7 +43,7 @@ Constructing a **multi-agent AI system** capable of collaborative diagnostic rea
 
 ### Digital Hospital Construction Department  
 **The Sixth Affiliated Hospital of Sun Yat-sen University**  
-*Sep 2025 – Dec 2025, Guangzhou, China*
+*Sep 2025 – Present, Guangzhou, China*
 
 Worked in the Digital Hospital Construction Department, participating in hospital-wide digitalization initiatives covering medical imaging management, WSI quality control, EMR system upgrades, and AI-assisted diagnostic workflows. Gained hands-on experience in medical data governance, system evaluation, and clinical–tech collaboration.
 

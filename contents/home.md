@@ -25,3 +25,10 @@ My research focuses on medical artificial intelligence, and my long-term goal is
 3) Multimodal MRI modeling  
 4) Biomedical AI applications
 
+#### Skills
+
+- **AI/ML:** Deep learning, multimodal learning, medical image analysis, LLM/VLM evaluation, agentic AI.  
+- **Medical Data:** mp-MRI, WSI pathology, EHR, medical reports, lab data.  
+- **Programming:** Python, PyTorch, MONAI, scikit-learn, OpenCV, Git, Linux.  
+- **Healthcare AI:** Prognostic modeling, multimodal fusion, MRI foundation models, clinical decision support.  
+

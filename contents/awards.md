@@ -1,6 +1,6 @@
-# Awards & Honors
 
-## Graduate Awards
+
+## During M.Eng. Study
 - **First Prize**, 9th National Biomedical Engineering Innovation Design Competition, 2024.07  
 - **Third Prize**, 9th National Biomedical Engineering Innovation Design Competition, 2024.07  
 - **First Prize**, 1st National College “Blockchain+” Application Competition, 2024.10  
@@ -9,7 +9,7 @@
 
 ---
 
-## Undergraduate Awards
+## During undergraduate study
 - **Outstanding Youth League Member**, Southern Medical University, 2021.05  
 - **Third Prize**, SMU Mathematical Modeling Competition, 2021.05  
 - **Third-Class Academic Scholarship**, Southern Medical University, 2021.09  

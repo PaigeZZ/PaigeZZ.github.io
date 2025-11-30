@@ -3,7 +3,7 @@
 ### First-Author Publications
 1. **Zhuang P\***, et al.  
    **Trimodal AI integrating mp-MRI, biopsy whole-slide images and clinical data for upfront prognostic stratification in locally advanced rectal cancer.**  
-   *npj Precision Oncology*, **under review**, 2025.  
+   *npj Digital Medicine*, **under revision following reviewer feedback for resubmission**, 2025.  
    *(A multimodal prognostic model achieving robust and externally validated survival prediction.)*
 
 2. **Zhuang P\***, et al.  
